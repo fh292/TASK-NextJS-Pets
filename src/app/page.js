@@ -1,4 +1,5 @@
-import PetsList from "./components/PetsList";
+"use client";
+import PetsList from "./Components/PetsList";
 
 export default function Home() {
   return (
